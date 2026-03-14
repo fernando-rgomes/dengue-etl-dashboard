@@ -61,7 +61,7 @@ Construir um pipeline de dados que simule um fluxo real de processamento epidemi
 ## 📈 Dashboard
 Visualização final no Power BI:  
 
-![Dashboard Dengue](dashboard_dengue.png)  
+![Dashboard Dengue](images/dashboard_dengue.png)  
 
 O painel mostra a **distribuição de casos**, **tempo de notificação** e **taxa de hospitalização por faixa etária**, permitindo insights sobre vulnerabilidade e eficiência do processo de notificação.
 
